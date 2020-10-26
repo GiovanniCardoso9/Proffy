@@ -1,2 +1,2 @@
 # Proffy
-Projeto da Rocketseat
+Projeto para integrar professores e alunos
